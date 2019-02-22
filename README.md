@@ -1,6 +1,5 @@
 # ivr_p2
-
-A new Flutter application.
+# In this Project the Gradle File Is Not Present Due To its Big Size
 
 ## Getting Started
 
